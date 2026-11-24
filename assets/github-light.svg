@@ -7,7 +7,7 @@
 <text x="20" y="56" font-size="10" fill="#625e55" text-anchor="start">PUBLIC REPOS*</text>
 <text x="20" y="86" font-size="28" fill="#24231f" text-anchor="start">21</text>
 <text x="225" y="56" font-size="10" fill="#625e55" text-anchor="start">STARS</text>
-<text x="225" y="86" font-size="28" fill="#24231f" text-anchor="start">—</text>
+<text x="225" y="86" font-size="28" fill="#24231f" text-anchor="start">6</text>
 <text x="430" y="56" font-size="10" fill="#625e55" text-anchor="start">FOLLOWERS</text>
 <text x="430" y="86" font-size="28" fill="#24231f" text-anchor="start">3</text>
 <path d="M208 48V90" stroke="#cfc7b9"/>
@@ -15,9 +15,20 @@
 <path d="M20 100H620" stroke="#cfc7b9"/>
 <text x="20" y="119" font-size="10" fill="#625e55" text-anchor="start">LANGUAGES / PRIMARY</text>
 <text x="365" y="119" font-size="10" fill="#625e55" text-anchor="start">LAST PUSH / REPOSITORY</text>
-<text x="20" y="140" font-size="11" fill="#625e55" text-anchor="start">awaiting first sync</text>
-<text x="365" y="140" font-size="12" fill="#24231f" text-anchor="start">awaiting first sync</text>
-<text x="365" y="158" font-size="10" fill="#625e55" text-anchor="start">SYNC: pending</text>
+<text x="20" y="136" font-size="11" fill="#24231f" text-anchor="start">C#</text>
+<text x="139" y="136" font-size="10" fill="#24231f" text-anchor="start">###</text>
+<text x="326" y="136" font-size="11" fill="#625e55" text-anchor="end">3</text>
+<text x="20" y="149" font-size="11" fill="#24231f" text-anchor="start">C++</text>
+<text x="139" y="149" font-size="10" fill="#24231f" text-anchor="start">###</text>
+<text x="326" y="149" font-size="11" fill="#625e55" text-anchor="end">3</text>
+<text x="20" y="162" font-size="11" fill="#24231f" text-anchor="start">HTML</text>
+<text x="139" y="162" font-size="10" fill="#24231f" text-anchor="start">###</text>
+<text x="326" y="162" font-size="11" fill="#625e55" text-anchor="end">3</text>
+<text x="20" y="175" font-size="11" fill="#24231f" text-anchor="start">TypeScript</text>
+<text x="139" y="175" font-size="10" fill="#24231f" text-anchor="start">###</text>
+<text x="326" y="175" font-size="11" fill="#625e55" text-anchor="end">3</text>
+<text x="365" y="140" font-size="12" fill="#24231f" text-anchor="start">local-pharmacy</text>
+<text x="365" y="158" font-size="10" fill="#625e55" text-anchor="start">SYNC: 2026-11-24</text>
 <text x="365" y="178" font-size="10" fill="#625e55" text-anchor="start">* OWNED / NO FORKS</text>
 <text x="620" y="190" font-size="10" fill="#625e55" text-anchor="end">[ 02 / W ]--+</text>
 </g></svg>
