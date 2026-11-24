@@ -1,15 +1,21 @@
-<h>Привет, меня зовут Артемий, и я начинающий разработчик </h1>
+<!-- WENWU / 文武 -->
 
-<p>
-  <img src="https://raw.githubusercontent.com/Wenwu-PA/Wenwu-PA/main/welcome-github.gif" alt="Welcome">
-</p>
+<div align="center">
+  <img src="assets/sphere.gif" width="100%" alt="Animated organic wireframe sphere with ASCII registration marks">
+</div>
 
-<h2>
-  <a href="resume.pdf">Нажав здесь</a>, можно ознакомиться с моим резюме
-</h2>
+# Wenwu / 文武
 
-<h2>
-  <a href="https://wenwu-pa.github.io/wenwu-docs/"> Моя веб-документация</a>
-  <a href="https://wenwu-pa.github.io/wenwu-docs/">
-</h2>
-<img src="https://img.shields.io/badge/Web%20Docs-wenwu--docs-red?style=for-the-badge" alt="Web Docs">
+`ARTEMII POLIKARPOV` · `JUNIOR BACKEND DEVELOPER`
+
+Building reliable services, practical tools and systems that make sense.
+
+```text
++--[ STACK / 01 ]
+|  Backend   :: Python / FastAPI / Django / Node.js / TypeScript
+|  Systems   :: Linux / Docker / Git / CI/CD / OpenWrt
+|  Data      :: MySQL / REST API
++--[ LESS, BUT BETTER ]
+```
+
+[Resume](resume.pdf) · [Documentation](https://wenwu-pa.github.io/wenwu-docs/) · [Email](mailto:artemiip427@gmail.com)
