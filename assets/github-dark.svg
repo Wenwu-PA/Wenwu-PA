@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200" role="img" aria-label="Public GitHub statistics for Wenwu-PA">
+<rect x=".5" y=".5" width="639" height="199" rx="5" fill="#11110f" stroke="#383630"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="20" y="24" font-size="12" fill="#a39e94" text-anchor="start">+--[ 02 / GITHUB TELEMETRY ]</text>
+<text x="620" y="24" font-size="12" fill="#a39e94" text-anchor="end">@Wenwu-PA</text>
+<path d="M20 36H620" stroke="#383630"/>
+<text x="20" y="56" font-size="10" fill="#a39e94" text-anchor="start">PUBLIC REPOS*</text>
+<text x="20" y="86" font-size="28" fill="#eee9df" text-anchor="start">21</text>
+<text x="225" y="56" font-size="10" fill="#a39e94" text-anchor="start">STARS</text>
+<text x="225" y="86" font-size="28" fill="#eee9df" text-anchor="start">—</text>
+<text x="430" y="56" font-size="10" fill="#a39e94" text-anchor="start">FOLLOWERS</text>
+<text x="430" y="86" font-size="28" fill="#eee9df" text-anchor="start">3</text>
+<path d="M208 48V90" stroke="#383630"/>
+<path d="M414 48V90" stroke="#383630"/>
+<path d="M20 100H620" stroke="#383630"/>
+<text x="20" y="119" font-size="10" fill="#a39e94" text-anchor="start">LANGUAGES / PRIMARY</text>
+<text x="365" y="119" font-size="10" fill="#a39e94" text-anchor="start">LAST PUSH / REPOSITORY</text>
+<text x="20" y="140" font-size="11" fill="#a39e94" text-anchor="start">awaiting first sync</text>
+<text x="365" y="140" font-size="12" fill="#eee9df" text-anchor="start">awaiting first sync</text>
+<text x="365" y="158" font-size="10" fill="#a39e94" text-anchor="start">SYNC: pending</text>
+<text x="365" y="178" font-size="10" fill="#a39e94" text-anchor="start">* OWNED / NO FORKS</text>
+<text x="620" y="190" font-size="10" fill="#a39e94" text-anchor="end">[ 02 / W ]--+</text>
+</g></svg>

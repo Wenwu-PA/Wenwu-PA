@@ -19,3 +19,8 @@ Building reliable services, practical tools and systems that make sense.
 ```
 
 [Resume](resume.pdf) · [Documentation](https://wenwu-pa.github.io/wenwu-docs/) · [Email](mailto:artemiip427@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-light.svg">
+  <img src="assets/github-dark.svg" alt="Public GitHub statistics" width="100%">
+</picture>
